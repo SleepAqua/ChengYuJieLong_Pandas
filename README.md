@@ -12,5 +12,7 @@ python jielong.py seq 生龙活虎 -l 999
 ```
 
 ## API Usage
+TODO
 
 ## More
+TODO
